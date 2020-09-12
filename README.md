@@ -1,2 +1,1 @@
-# Supply-mission-template-code
- template code
+# SupplyMission
